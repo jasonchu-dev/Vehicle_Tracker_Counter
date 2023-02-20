@@ -1,0 +1,7 @@
+name: <Whatever you named your env>
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - opencv
+  - scipy
